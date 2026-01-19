@@ -1,17 +1,41 @@
-# 👋 Kusoo dhawaada bogga Ikran Ahmed Diriye
-
-### Hi there! I'm a Web Developer & Designer 💻
-I love creating visually stunning designs and building responsive websites.
+# Hi 👋, I'm Ikraam Ahmet
+### 🎓 Computer Science Student | 💻 Web Developer | 🎨 Graphic Designer
 
 ---
 
-### ⚒️ My Technical Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### 👨‍💻 About Me
+- 🎓 I am currently studying **Computer Science**.
+- 🌐 I build modern websites using **HTML, CSS, and JavaScript**.
+- 🎨 I have a passion for **Graphic Design** and creating visual identities.
+- 🚀 I love solving problems using **C++**.
 
 ---
 
-### 📫 Contact Me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](LINK-KAAGA-GELI)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iimeelkaaga@gmail.com)
+### 🛠 My Tech Stack
+
+**Programming & Web Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+</p>
+
+**Design Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Ikraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikraamahmet10-debug&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to reach me
+- 📧 Email: **ikraamahmet10@gmail.com**
+- 💼 [LinkedIn](Halkan_Geli_Linkiga_LinkedIn-kaaga)
+
